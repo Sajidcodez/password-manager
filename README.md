@@ -14,5 +14,4 @@ A simple password manager using Python's `tkinter` for the graphical user interf
 
 # How to Run
 1. Clone the repository: `git clone https://github.com/your-username/password-manager.git`
-2. Navigate to the project directory: `cd password-manager`
-3. Run the program: `python main.py`
+2. Run the program: `python main.py`
